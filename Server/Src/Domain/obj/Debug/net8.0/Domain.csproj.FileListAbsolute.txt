@@ -1,0 +1,11 @@
+C:\Asp.net\Elomia\Server\Src\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Asp.net\Elomia\Server\Src\Domain\bin\Debug\net8.0\Domain.dll
+C:\Asp.net\Elomia\Server\Src\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Asp.net\Elomia\Server\Src\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asp.net\Elomia\Server\Src\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Asp.net\Elomia\Server\Src\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Asp.net\Elomia\Server\Src\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Asp.net\Elomia\Server\Src\Domain\obj\Debug\net8.0\Domain.dll
+C:\Asp.net\Elomia\Server\Src\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Asp.net\Elomia\Server\Src\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Asp.net\Elomia\Server\Src\Domain\obj\Debug\net8.0\ref\Domain.dll
